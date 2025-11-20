@@ -3,7 +3,7 @@ body {
     height: 100vh;
 }
 
-.cardone {
+.cardone1 {
   background-color: white;
   opacity: 80%;
   border-radius: 12px;
@@ -21,12 +21,12 @@ body {
   text-align: center;
 }
 
-.cardone:hover {
+.cardone1:hover {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
   
 }
 
-.containercard {
+.containercardcalon {
   padding:200px;
   display: flex;
   justify-content: space-around;
@@ -34,7 +34,7 @@ body {
   gap: 5px;
 }
 
-.forms {
+.formsNISN {
     justify-items: center   ;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
