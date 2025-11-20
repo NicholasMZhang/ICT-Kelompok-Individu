@@ -25,7 +25,7 @@ body {
     color:white;
 }
 
-.calon1 {
+.calon1satu {
     background-color: rgba(255, 255, 255, 0.1);
     border-radius: 12px;
     padding: 15px;
@@ -34,12 +34,12 @@ body {
     color:white;
 }
 
-.calon1:hover {
+.calon1satu:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
     transform: translateY(-10px);
 }
 
-.calon2 {
+.calon2dua {
     background-color: rgba(255, 255, 255, 0.1);
     border-radius: 12px;
     padding: 15px;
@@ -48,12 +48,12 @@ body {
     color:white;
 }
 
-.calon2:hover {
+.calon2dua:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
     transform: translateY(-10px);
 }
 
-.calon3 {
+.calon3tiga {
     background-color: rgba(255, 255, 255, 0.1);
     border-radius: 12px;
     padding: 15px;
@@ -62,12 +62,12 @@ body {
     color:white;
 }
 
-.calon3:hover {
+.calon3tiga:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
     transform: translateY(-10px);
 }
 
-.buttoncontainer {
+.buttoncontainercalon123 {
     margin-top: 40px;
     display: flex;
     justify-content: center;
